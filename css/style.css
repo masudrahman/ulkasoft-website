@@ -5,10 +5,18 @@
  *
  * Made By MaterializeCSS.com
  */
+#ulka-logo{
+	height: 60px;
+	vertical-align: middle;
+}
 
 .icon-block {
   padding: 0 15px;
 }
 .icon-block .material-icons {
 	font-size: inherit;
+}
+
+footer li{
+	list-style-type: none;
 }

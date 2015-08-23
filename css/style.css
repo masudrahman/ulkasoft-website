@@ -20,3 +20,7 @@
 footer li{
 	list-style-type: none;
 }
+
+body ul li{
+	color: black;
+}

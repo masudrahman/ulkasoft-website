@@ -1,0 +1,19 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+footer li{
+	list-style-type: none;
+}
+
+#content li{
+	list-style-type: circle;
+	text-align: left;
+}
+
+#content ul li{
+	text-align: center;
+}

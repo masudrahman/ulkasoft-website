@@ -1,9 +1,7 @@
 (function($){
   $(function(){
 
-  	$('.dropdown-button').dropdown(){
-  		hover: true;
-  	};
+  	$('.dropdown-button').dropdown();
 
     $('.button-collapse').sideNav();
 

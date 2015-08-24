@@ -11,9 +11,12 @@ footer li{
 
 #content li{
 	list-style-type: circle;
-	text-align: left;
 }
 
-#content ul li{
+#values{
 	text-align: center;
+}
+
+#company{
+	text-align: left;
 }

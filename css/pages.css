@@ -9,6 +9,15 @@ footer li{
 	list-style-type: none;
 }
 
+.images{
+	max-width: 200px; 
+	height: auto;
+}
+
+blockquote{
+	text-align: left;
+}
+
 #content li{
 	list-style-type: circle;
 }

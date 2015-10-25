@@ -9,8 +9,12 @@ footer li{
 	list-style-type: none;
 }
 
+ol{
+	text-align: left;
+}
+
 .images{
-	max-width: 200px; 
+	width: auto; 
 	height: auto;
 }
 

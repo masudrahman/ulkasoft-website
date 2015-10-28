@@ -13,6 +13,10 @@ ol{
 	text-align: left;
 }
 
+ul li{
+	text-align: left;
+}
+
 .images{
 	width: auto; 
 	height: auto;
